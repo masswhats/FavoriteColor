@@ -61,7 +61,20 @@ namespace MachOneSoftware.FavoriteColor
             "Amazon orange",
             "I guess that's why they call it the blues blue",
 
-            "red","blue","green","yellow","orange"
+            "red","blue","green","yellow","orange",
+            "mauve",
+            "neon pink",
+            "crimson",
+            "cyan",
+            "teal",
+            "flamingo",
+            "electric orange",
+            "Screaming green",
+            "Spanish Yellow",
+            "Malachite",
+            "Arsenic",
+            "Caput Mortuum"
+
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
