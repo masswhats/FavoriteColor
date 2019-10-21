@@ -1,0 +1,42 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "favorite color",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "RandomColorIntent",
+                    "slots": [],
+                    "samples": [
+                        "random color",
+                        "give me a random color",
+                        "what's your favorite color",
+                        "color",
+                        "favorite color",
+                        "give me a color"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
